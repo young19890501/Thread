@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 3952ec67bc1e3c74fa9a9044aa22b818
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GargoyalAttacksheet1_15_0
+    21300002: GargoyalAttacksheet1_15_1
+    21300004: GargoyalAttacksheet1_15_2
+    21300006: GargoyalAttacksheet1_15_3
+    21300008: GargoyalAttacksheet1_15_4
+    21300010: GargoyalAttacksheet1_15_5
+    21300012: GargoyalAttacksheet1_15_6
+    21300014: GargoyalAttacksheet1_15_7
+    21300016: GargoyalAttacksheet1_15_8
+    21300018: GargoyalAttacksheet1_15_9
+    21300020: GargoyalAttacksheet1_15_10
+    21300022: GargoyalAttacksheet1_15_11
+    21300024: GargoyalAttacksheet1_15_12
+    21300026: GargoyalAttacksheet1_15_13
+    21300028: GargoyalAttacksheet1_15_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GargoyalAttacksheet1_15_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3375
+        width: 1087
+        height: 632
+      alignment: 9
+      pivot: {x: .419350684, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GargoyalAttacksheet1_15_1
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 3315
+        width: 947
+        height: 755
+      alignment: 9
+      pivot: {x: .417764187, y: .454452097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GargoyalAttacksheet1_15_2
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 3214
+        width: 905
+        height: 870
+      alignment: 9
+      pivot: {x: .392204762, y: .415255994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GargoyalAttacksheet1_15_3
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 3072
+        width: 629
+        height: 1008
+      alignment: 9
+      pivot: {x: .309039325, y: .36661154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GargoyalAttacksheet1_15_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2462
+        width: 480
+        height: 661
+      alignment: 9
+      pivot: {x: .344406754, y: .866552234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GargoyalAttacksheet1_15_5
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 2384
+        width: 494
+        height: 680
+      alignment: 9
+      pivot: {x: .493537188, y: .878494084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GargoyalAttacksheet1_15_6
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 2240
+        width: 819
+        height: 824
+      alignment: 9
+      pivot: {x: .451824695, y: .616954029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GargoyalAttacksheet1_15_7
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 2186
+        width: 1089
+        height: 745
+      alignment: 9
+      pivot: {x: .431040913, y: .460947335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GargoyalAttacksheet1_15_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1646
+        width: 912
+        height: 738
+      alignment: 9
+      pivot: {x: .356209099, y: .46881634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GargoyalAttacksheet1_15_9
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1412
+        width: 692
+        height: 828
+      alignment: 9
+      pivot: {x: .319577068, y: .366976529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GargoyalAttacksheet1_15_10
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 1216
+        width: 576
+        height: 928
+      alignment: 9
+      pivot: {x: .367655009, y: .328087121}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GargoyalAttacksheet1_15_11
+      rect:
+        serializedVersion: 2
+        x: 2796
+        y: 1212
+        width: 900
+        height: 905
+      alignment: 9
+      pivot: {x: .595231116, y: .323854029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GargoyalAttacksheet1_15_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 147
+        width: 1248
+        height: 793
+      alignment: 9
+      pivot: {x: .642718375, y: .280947894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GargoyalAttacksheet1_15_13
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 0
+        width: 990
+        height: 1089
+      alignment: 9
+      pivot: {x: .939318955, y: .552254975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GargoyalAttacksheet1_15_14
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 0
+        width: 1066
+        height: 1108
+      alignment: 9
+      pivot: {x: .952451229, y: .396628886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

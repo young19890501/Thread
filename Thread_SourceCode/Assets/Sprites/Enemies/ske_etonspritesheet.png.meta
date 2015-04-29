@@ -1,0 +1,894 @@
+fileFormatVersion: 2
+guid: 1435408e7dffe8e4d8c17a126a51dd43
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ske_etonspritesheet_0
+    21300002: ske_etonspritesheet_1
+    21300004: ske_etonspritesheet_2
+    21300006: ske_etonspritesheet_3
+    21300008: ske_etonspritesheet_4
+    21300010: ske_etonspritesheet_5
+    21300012: ske_etonspritesheet_6
+    21300014: ske_etonspritesheet_7
+    21300016: ske_etonspritesheet_8
+    21300018: ske_etonspritesheet_9
+    21300020: ske_etonspritesheet_10
+    21300022: ske_etonspritesheet_11
+    21300024: ske_etonspritesheet_12
+    21300026: ske_etonspritesheet_13
+    21300028: ske_etonspritesheet_14
+    21300030: ske_etonspritesheet_15
+    21300032: ske_etonspritesheet_16
+    21300034: ske_etonspritesheet_17
+    21300036: ske_etonspritesheet_18
+    21300038: ske_etonspritesheet_19
+    21300040: ske_etonspritesheet_20
+    21300042: ske_etonspritesheet_21
+    21300044: ske_etonspritesheet_22
+    21300046: ske_etonspritesheet_23
+    21300048: ske_etonspritesheet_24
+    21300050: ske_etonspritesheet_25
+    21300052: ske_etonspritesheet_26
+    21300054: ske_etonspritesheet_27
+    21300056: ske_etonspritesheet_28
+    21300058: ske_etonspritesheet_29
+    21300060: ske_etonspritesheet_30
+    21300062: ske_etonspritesheet_31
+    21300064: ske_etonspritesheet_32
+    21300066: ske_etonspritesheet_33
+    21300068: ske_etonspritesheet_34
+    21300070: ske_etonspritesheet_35
+    21300072: ske_etonspritesheet_36
+    21300074: ske_etonspritesheet_37
+    21300076: ske_etonspritesheet_38
+    21300078: ske_etonspritesheet_39
+    21300080: ske_etonspritesheet_40
+    21300082: ske_etonspritesheet_41
+    21300084: ske_etonspritesheet_42
+    21300086: ske_etonspritesheet_43
+    21300088: ske_etonspritesheet_44
+    21300090: ske_etonspritesheet_45
+    21300092: ske_etonspritesheet_46
+    21300094: ske_etonspritesheet_47
+    21300096: ske_etonspritesheet_48
+    21300098: ske_etonspritesheet_49
+    21300100: ske_etonspritesheet_50
+    21300102: ske_etonspritesheet_51
+    21300104: ske_etonspritesheet_52
+    21300106: ske_etonspritesheet_53
+    21300108: ske_etonspritesheet_54
+    21300110: ske_etonspritesheet_55
+    21300112: ske_etonspritesheet_56
+    21300114: ske_etonspritesheet_57
+    21300116: ske_etonspritesheet_58
+    21300118: ske_etonspritesheet_59
+    21300120: ske_etonspritesheet_60
+    21300122: ske_etonspritesheet_61
+    21300124: ske_etonspritesheet_62
+    21300126: ske_etonspritesheet_63
+    21300128: ske_etonspritesheet_64
+    21300130: ske_etonspritesheet_65
+    21300132: ske_etonspritesheet_66
+    21300134: ske_etonspritesheet_67
+    21300136: ske_etonspritesheet_68
+    21300138: ske_etonspritesheet_69
+    21300140: ske_etonspritesheet_70
+    21300142: ske_etonspritesheet_71
+    21300144: ske_etonspritesheet_72
+    21300146: ske_etonspritesheet_73
+    21300148: ske_etonspritesheet_74
+    21300150: ske_etonspritesheet_75
+    21300152: ske_etonspritesheet_76
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ske_etonspritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 3738
+        width: 256
+        height: 243
+      alignment: 9
+      pivot: {x: .302476764, y: .530739605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 3737
+        width: 256
+        height: 244
+      alignment: 9
+      pivot: {x: .30484271, y: .539813936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 3736
+        width: 262
+        height: 245
+      alignment: 9
+      pivot: {x: .309311956, y: .539651453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 3738
+        width: 232
+        height: 280
+      alignment: 9
+      pivot: {x: .353445113, y: .465305865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 3736
+        width: 236
+        height: 285
+      alignment: 9
+      pivot: {x: .361809671, y: .441567302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 3731
+        width: 220
+        height: 297
+      alignment: 9
+      pivot: {x: .392762333, y: .436919659}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 3731
+        width: 225
+        height: 285
+      alignment: 9
+      pivot: {x: .382809252, y: .451306373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 3731
+        width: 254
+        height: 249
+      alignment: 9
+      pivot: {x: .306037962, y: .533441365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 3348
+        width: 241
+        height: 243
+      alignment: 9
+      pivot: {x: .260652661, y: .540928245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 3348
+        width: 241
+        height: 244
+      alignment: 9
+      pivot: {x: .257655472, y: .553650916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 3348
+        width: 241
+        height: 244
+      alignment: 9
+      pivot: {x: .261023313, y: .545598269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 3348
+        width: 221
+        height: 280
+      alignment: 9
+      pivot: {x: .319354177, y: .467276424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 3348
+        width: 221
+        height: 280
+      alignment: 9
+      pivot: {x: .316392988, y: .467276424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 3348
+        width: 223
+        height: 280
+      alignment: 9
+      pivot: {x: .315104544, y: .467276424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 3348
+        width: 221
+        height: 280
+      alignment: 9
+      pivot: {x: .319354713, y: .469614089}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 3348
+        width: 221
+        height: 280
+      alignment: 9
+      pivot: {x: .31935361, y: .467276424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2671
+        width: 245
+        height: 254
+      alignment: 9
+      pivot: {x: .331954032, y: .517062902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 2671
+        width: 212
+        height: 332
+      alignment: 9
+      pivot: {x: .415289551, y: .400830358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 2686
+        width: 218
+        height: 374
+      alignment: 9
+      pivot: {x: .422197521, y: .354612291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 2686
+        width: 296
+        height: 334
+      alignment: 9
+      pivot: {x: .314616024, y: .395450056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 2711
+        width: 147
+        height: 430
+      alignment: 9
+      pivot: {x: .635098636, y: .312180907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 2720
+        width: 309
+        height: 362
+      alignment: 9
+      pivot: {x: .750654221, y: .370163053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 2711
+        width: 443
+        height: 252
+      alignment: 9
+      pivot: {x: .586670458, y: .607702851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2121
+        width: 227
+        height: 254
+      alignment: 9
+      pivot: {x: .275887251, y: .520054162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2129
+        width: 194
+        height: 332
+      alignment: 9
+      pivot: {x: .359101921, y: .398772836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 2129
+        width: 202
+        height: 372
+      alignment: 9
+      pivot: {x: .375676215, y: .354393095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 2129
+        width: 277
+        height: 335
+      alignment: 9
+      pivot: {x: .276011556, y: .395636797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 2128
+        width: 130
+        height: 432
+      alignment: 9
+      pivot: {x: .579085588, y: .313363522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 2140
+        width: 309
+        height: 361
+      alignment: 9
+      pivot: {x: .752171218, y: .371090382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 2121
+        width: 443
+        height: 255
+      alignment: 9
+      pivot: {x: .586725056, y: .597613156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1663
+        width: 168
+        height: 292
+      alignment: 9
+      pivot: {x: .529588044, y: .44680202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1662
+        width: 160
+        height: 303
+      alignment: 9
+      pivot: {x: .566018701, y: .454885542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1659
+        width: 230
+        height: 307
+      alignment: 9
+      pivot: {x: .472984523, y: .457497269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1675
+        width: 129
+        height: 126
+      alignment: 9
+      pivot: {x: .522033274, y: .437865406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1664
+        width: 156
+        height: 81
+      alignment: 9
+      pivot: {x: .523897588, y: .400277585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 1675
+        width: 165
+        height: 47
+      alignment: 9
+      pivot: {x: .552720308, y: .486780047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 1675
+        width: 162
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1231
+        width: 168
+        height: 292
+      alignment: 9
+      pivot: {x: .52711308, y: .451641351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1230
+        width: 156
+        height: 303
+      alignment: 9
+      pivot: {x: .555477798, y: .45941022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1232
+        width: 213
+        height: 300
+      alignment: 9
+      pivot: {x: .437982261, y: .443820804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1230
+        width: 218
+        height: 252
+      alignment: 9
+      pivot: {x: .330751747, y: .460233182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1228
+        width: 246
+        height: 269
+      alignment: 9
+      pivot: {x: .427784979, y: .510159969}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 1258
+        width: 175
+        height: 276
+      alignment: 9
+      pivot: {x: .609321296, y: .435634881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 1256
+        width: 139
+        height: 294
+      alignment: 9
+      pivot: {x: .575370967, y: .427180916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 2297
+        y: 1242
+        width: 151
+        height: 308
+      alignment: 9
+      pivot: {x: .635747015, y: .464505672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 1234
+        width: 172
+        height: 342
+      alignment: 9
+      pivot: {x: .531779468, y: .46670264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 1219
+        width: 195
+        height: 333
+      alignment: 9
+      pivot: {x: .429921627, y: .495896161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 1232
+        width: 204
+        height: 337
+      alignment: 9
+      pivot: {x: .408450842, y: .418901116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 1247
+        width: 166
+        height: 298
+      alignment: 9
+      pivot: {x: .546647012, y: .337974191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 1243
+        width: 166
+        height: 291
+      alignment: 9
+      pivot: {x: .543902636, y: .323119283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 3813
+        y: 1219
+        width: 188
+        height: 270
+      alignment: 9
+      pivot: {x: .38127622, y: .42408222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 852
+        width: 145
+        height: 296
+      alignment: 9
+      pivot: {x: .46304068, y: .448271453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 852
+        width: 136
+        height: 305
+      alignment: 9
+      pivot: {x: .488741249, y: .457328022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 852
+        width: 192
+        height: 301
+      alignment: 9
+      pivot: {x: .374396652, y: .444043934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 852
+        width: 290
+        height: 301
+      alignment: 9
+      pivot: {x: .236453146, y: .400000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 852
+        width: 257
+        height: 301
+      alignment: 9
+      pivot: {x: .255199611, y: .400000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 852
+        width: 257
+        height: 301
+      alignment: 9
+      pivot: {x: .259627879, y: .400000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 812
+        width: 257
+        height: 301
+      alignment: 9
+      pivot: {x: .270756692, y: .400000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 807
+        width: 249
+        height: 301
+      alignment: 9
+      pivot: {x: .263391465, y: .400000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 416
+        width: 416
+        height: 105
+      alignment: 9
+      pivot: {x: .472515255, y: .406665027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 416
+        width: 381
+        height: 104
+      alignment: 9
+      pivot: {x: .461416155, y: .39791429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 426
+        width: 353
+        height: 155
+      alignment: 9
+      pivot: {x: .44447425, y: .45257923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 426
+        width: 345
+        height: 195
+      alignment: 9
+      pivot: {x: .452655464, y: .537693143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 407
+        width: 349
+        height: 204
+      alignment: 9
+      pivot: {x: .364274591, y: .592078388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 428
+        width: 235
+        height: 299
+      alignment: 9
+      pivot: {x: .493049771, y: .445372105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 428
+        width: 158
+        height: 304
+      alignment: 9
+      pivot: {x: .562027156, y: .4570162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 428
+        width: 168
+        height: 293
+      alignment: 9
+      pivot: {x: .538891017, y: .449828058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 3494
+        y: 428
+        width: 244
+        height: 257
+      alignment: 9
+      pivot: {x: .342686385, y: .512710989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 83
+        width: 287
+        height: 105
+      alignment: 9
+      pivot: {x: .23543036, y: .40227589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 67
+        width: 271
+        height: 104
+      alignment: 9
+      pivot: {x: .255149245, y: .394759029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 71
+        width: 255
+        height: 153
+      alignment: 9
+      pivot: {x: .258564562, y: .428462803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 83
+        width: 257
+        height: 202
+      alignment: 9
+      pivot: {x: .25511983, y: .466135234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 83
+        width: 294
+        height: 206
+      alignment: 9
+      pivot: {x: .232422709, y: .586338222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 67
+        width: 193
+        height: 301
+      alignment: 9
+      pivot: {x: .372401744, y: .443183511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 63
+        width: 136
+        height: 305
+      alignment: 9
+      pivot: {x: .494969994, y: .452900261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 3239
+        y: 71
+        width: 145
+        height: 293
+      alignment: 9
+      pivot: {x: .46697703, y: .448636323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ske_etonspritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 3515
+        y: 83
+        width: 223
+        height: 258
+      alignment: 9
+      pivot: {x: .27913484, y: .510605693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

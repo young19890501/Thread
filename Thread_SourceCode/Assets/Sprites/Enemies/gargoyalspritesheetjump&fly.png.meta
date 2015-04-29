@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 169a6f77116d0cc4d9b09fed5b2c991e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gargoyalspritesheetjump&fly_0
+    21300002: gargoyalspritesheetjump&fly_1
+    21300004: gargoyalspritesheetjump&fly_2
+    21300006: gargoyalspritesheetjump&fly_3
+    21300008: gargoyalspritesheetjump&fly_4
+    21300010: gargoyalspritesheetjump&fly_5
+    21300012: gargoyalspritesheetjump&fly_6
+    21300014: gargoyalspritesheetjump&fly_7
+    21300016: gargoyalspritesheetjump&fly_8
+    21300018: gargoyalspritesheetjump&fly_9
+    21300020: gargoyalspritesheetjump&fly_10
+    21300022: gargoyalspritesheetjump&fly_11
+    21300024: gargoyalspritesheetjump&fly_12
+    21300026: gargoyalspritesheetjump&fly_13
+    21300028: gargoyalspritesheetjump&fly_14
+    21300030: gargoyalspritesheetjump&fly_15
+    21300032: gargoyalspritesheetjump&fly_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: gargoyalspritesheetjump&fly_0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3269
+        width: 414
+        height: 521
+      alignment: 9
+      pivot: {x: .487745643, y: .682233393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalspritesheetjump&fly_1
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 3238
+        width: 399
+        height: 552
+      alignment: 9
+      pivot: {x: .610803425, y: .808548629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalspritesheetjump&fly_2
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 3193
+        width: 455
+        height: 597
+      alignment: 9
+      pivot: {x: .593980193, y: .873913407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalspritesheetjump&fly_3
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 3115
+        width: 384
+        height: 675
+      alignment: 9
+      pivot: {x: .460364342, y: .896203339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalspritesheetjump&fly_4
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 2938
+        width: 304
+        height: 852
+      alignment: 9
+      pivot: {x: .442781955, y: .882796764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalspritesheetjump&fly_5
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 2937
+        width: 304
+        height: 853
+      alignment: 9
+      pivot: {x: .428477228, y: .878949463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalspritesheetjump&fly_6
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 2948
+        width: 356
+        height: 831
+      alignment: 9
+      pivot: {x: .44706744, y: .891598046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalspritesheetjump&fly_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2295
+        width: 820
+        height: 820
+      alignment: 9
+      pivot: {x: .327326506, y: .688723981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalspritesheetjump&fly_8
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 2229
+        width: 1051
+        height: 790
+      alignment: 9
+      pivot: {x: .447015911, y: .713819921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalspritesheetjump&fly_9
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1438
+        width: 911
+        height: 632
+      alignment: 9
+      pivot: {x: .428218991, y: .778820574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalspritesheetjump&fly_10
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1438
+        width: 905
+        height: 755
+      alignment: 9
+      pivot: {x: .386974096, y: .702446759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalspritesheetjump&fly_11
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 1438
+        width: 629
+        height: 870
+      alignment: 9
+      pivot: {x: .343474805, y: .693821013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalspritesheetjump&fly_12
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 1438
+        width: 514
+        height: 1091
+      alignment: 9
+      pivot: {x: .38812232, y: .57080102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalspritesheetjump&fly_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 558
+        width: 480
+        height: 705
+      alignment: 9
+      pivot: {x: .388905585, y: .767989695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalspritesheetjump&fly_14
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 484
+        width: 465
+        height: 788
+      alignment: 9
+      pivot: {x: .384502858, y: .702713668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalspritesheetjump&fly_15
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 662
+        width: 819
+        height: 556
+      alignment: 9
+      pivot: {x: .499999702, y: .876122773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalspritesheetjump&fly_16
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 718
+        width: 1089
+        height: 591
+      alignment: 9
+      pivot: {x: .432729274, y: .700144947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

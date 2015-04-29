@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: 81b96a0bb8acab64c9c6e9df887936b9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spinAttack
+    21300002: spinAttack_0
+    21300004: spinAttack_1
+    21300006: spinAttack_2
+    21300008: spinAttack_3
+    21300010: spinAttack_4
+    21300012: spinAttack_5
+    21300014: spinAttack_6
+    21300016: spinAttack_7
+    21300018: spinAttack_8
+    21300020: spinAttack_9
+    21300022: spinAttack_10
+    21300024: spinAttack_11
+    21300026: spinAttack_12
+    21300028: spinAttack_13
+    21300030: spinAttack_14
+    21300032: spinAttack_15
+    21300034: spinAttack_16
+    21300036: spinAttack_17
+    21300038: spinAttack_18
+    21300040: spinAttack_19
+    21300042: spinAttack_20
+    21300044: spinAttack_23
+    21300046: spinAttack_25
+    21300048: spinAttack_26
+    21300050: spinAttack_27
+    21300052: spinAttack_28
+    21300054: spinAttack_21
+    21300056: spinAttack_21
+    21300058: spinAttack_22
+    21300060: spinAttack_29
+    21300062: spinAttack_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spinAttack_0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 3433
+        width: 153
+        height: 453
+      alignment: 9
+      pivot: {x: .767896473, y: .812039733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_1
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 3433
+        width: 176
+        height: 453
+      alignment: 9
+      pivot: {x: .691821694, y: .827995121}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_2
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 3543
+        width: 267
+        height: 328
+      alignment: 9
+      pivot: {x: .747543037, y: .685381651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_3
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 3543
+        width: 330
+        height: 315
+      alignment: 9
+      pivot: {x: .591902316, y: .682149053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_4
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 3555
+        width: 303
+        height: 291
+      alignment: 9
+      pivot: {x: .399908781, y: .666187584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_5
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3506
+        width: 324
+        height: 340
+      alignment: 9
+      pivot: {x: .419045538, y: .577145576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_6
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3506
+        width: 382
+        height: 322
+      alignment: 9
+      pivot: {x: .268261969, y: .538183749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_7
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 3314
+        width: 397
+        height: 532
+      alignment: 9
+      pivot: {x: .235724851, y: .707998633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2564
+        width: 737
+        height: 575
+      alignment: 9
+      pivot: {x: .654576898, y: .738451958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_9
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 2572
+        width: 611
+        height: 559
+      alignment: 9
+      pivot: {x: .836664319, y: .759682178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_10
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 2630
+        width: 514
+        height: 459
+      alignment: 9
+      pivot: {x: .622555971, y: .78926301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_11
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 2552
+        width: 474
+        height: 537
+      alignment: 9
+      pivot: {x: .463197082, y: .794169903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_12
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 2552
+        width: 474
+        height: 537
+      alignment: 9
+      pivot: {x: .459107995, y: .792365015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_13
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 2668
+        width: 668
+        height: 368
+      alignment: 9
+      pivot: {x: .246109828, y: .700147569}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1879
+        width: 400
+        height: 386
+      alignment: 9
+      pivot: {x: .499999911, y: .668217957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_15
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1856
+        width: 561
+        height: 409
+      alignment: 9
+      pivot: {x: .826500237, y: .758278072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_16
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1888
+        width: 567
+        height: 369
+      alignment: 9
+      pivot: {x: .882868469, y: .657583177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_17
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 1927
+        width: 530
+        height: 290
+      alignment: 9
+      pivot: {x: .887654305, y: .493316442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_18
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 1926
+        width: 560
+        height: 270
+      alignment: 9
+      pivot: {x: .823406994, y: .506726503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_19
+      rect:
+        serializedVersion: 2
+        x: 3279
+        y: 1964
+        width: 564
+        height: 204
+      alignment: 9
+      pivot: {x: .753082514, y: .285241812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_23
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1095
+        width: 339
+        height: 443
+      alignment: 9
+      pivot: {x: .445804745, y: .289448261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_25
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 1095
+        width: 507
+        height: 350
+      alignment: 9
+      pivot: {x: .388500929, y: .25369072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_26
+      rect:
+        serializedVersion: 2
+        x: 3545
+        y: 1070
+        width: 453
+        height: 207
+      alignment: 9
+      pivot: {x: .652868152, y: .636546552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_27
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 46
+        width: 637
+        height: 391
+      alignment: 9
+      pivot: {x: .413908422, y: .393292755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_28
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 47
+        width: 675
+        height: 243
+      alignment: 9
+      pivot: {x: .216013819, y: .673919976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_29
+      rect:
+        serializedVersion: 2
+        x: 3387
+        y: 69
+        width: 675
+        height: 194
+      alignment: 9
+      pivot: {x: .165314302, y: .669655323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1179
+        width: 517
+        height: 299
+      alignment: 9
+      pivot: {x: .748753905, y: .353476018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_22
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1095
+        width: 395
+        height: 473
+      alignment: 9
+      pivot: {x: .657425284, y: .263960391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spinAttack_24
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 1094
+        width: 528
+        height: 472
+      alignment: 9
+      pivot: {x: .336726785, y: .233518705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

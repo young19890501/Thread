@@ -1,0 +1,69 @@
+fileFormatVersion: 2
+guid: 10954ac6a3ee80745b393d5da2b48278
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gargoyattacksheet22_23_0
+    21300002: gargoyattacksheet22_23_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: gargoyattacksheet22_23_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2486
+        width: 2396
+        height: 1480
+      alignment: 9
+      pivot: {x: .329379588, y: .931430459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyattacksheet22_23_1
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 74
+        width: 1608
+        height: 2291
+      alignment: 9
+      pivot: {x: .636122823, y: .742726743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

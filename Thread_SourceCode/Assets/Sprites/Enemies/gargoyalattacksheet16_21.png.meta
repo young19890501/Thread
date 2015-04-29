@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: 7539938f16a982645b3d40c8ba6793da
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gargoyalattacksheet16_21_0
+    21300002: gargoyalattacksheet16_21_1
+    21300004: gargoyalattacksheet16_21_2
+    21300006: gargoyalattacksheet16_21_3
+    21300008: gargoyalattacksheet16_21_4
+    21300010: gargoyalattacksheet16_21_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: gargoyalattacksheet16_21_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2822
+        width: 1311
+        height: 1166
+      alignment: 9
+      pivot: {x: .951674759, y: .171000823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalattacksheet16_21_1
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 2706
+        width: 1172
+        height: 1282
+      alignment: 9
+      pivot: {x: .528545916, y: .14565064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalattacksheet16_21_2
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 2730
+        width: 1153
+        height: 1255
+      alignment: 9
+      pivot: {x: .0971425623, y: .338432401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalattacksheet16_21_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1425
+        width: 1320
+        height: 1258
+      alignment: 9
+      pivot: {x: .0409120172, y: .65959537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalattacksheet16_21_4
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 1419
+        width: 1527
+        height: 1250
+      alignment: 9
+      pivot: {x: .0364557765, y: .702612877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalattacksheet16_21_5
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 55
+        width: 2108
+        height: 1341
+      alignment: 9
+      pivot: {x: .243420243, y: .847176731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

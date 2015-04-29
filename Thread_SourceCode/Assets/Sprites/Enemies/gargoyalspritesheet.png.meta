@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 220f0cd58f5a4c64fa06a687254112a9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gargoyalspritesheet_0
+    21300002: gargoyalspritesheet_1
+    21300004: gargoyalspritesheet_2
+    21300006: gargoyalspritesheet_3
+    21300008: gargoyalspritesheet_4
+    21300010: gargoyalspritesheet_5
+    21300012: gargoyalspritesheet_6
+    21300014: gargoyalspritesheet_7
+    21300016: gargoyalspritesheet_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: gargoyalspritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1402
+        width: 410
+        height: 498
+      alignment: 9
+      pivot: {x: .480236381, y: .713005602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalspritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1402
+        width: 410
+        height: 498
+      alignment: 9
+      pivot: {x: .478439689, y: .704130232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalspritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1402
+        width: 410
+        height: 498
+      alignment: 9
+      pivot: {x: .476642877, y: .708567917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalspritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1402
+        width: 410
+        height: 498
+      alignment: 9
+      pivot: {x: .489219695, y: .710047245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalspritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 782
+        width: 410
+        height: 502
+      alignment: 9
+      pivot: {x: .489519805, y: .703288436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalspritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 774
+        width: 412
+        height: 505
+      alignment: 9
+      pivot: {x: .500000119, y: .697826445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalspritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 774
+        width: 415
+        height: 520
+      alignment: 9
+      pivot: {x: .494823039, y: .66319859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalspritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 771
+        width: 416
+        height: 525
+      alignment: 9
+      pivot: {x: .484506756, y: .678013384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gargoyalspritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 140
+        width: 355
+        height: 548
+      alignment: 9
+      pivot: {x: .475792259, y: .678382993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

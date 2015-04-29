@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 749487583d5249346a4702572aca4f37
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpinAttackSHEETsimple_0
+    21300002: SpinAttackSHEETsimple_1
+    21300004: SpinAttackSHEETsimple_2
+    21300006: SpinAttackSHEETsimple_3
+    21300008: SpinAttackSHEETsimple_4
+    21300010: SpinAttackSHEETsimple_5
+    21300012: SpinAttackSHEETsimple_6
+    21300014: SpinAttackSHEETsimple_7
+    21300016: SpinAttackSHEETsimple_8
+    21300018: SpinAttackSHEETsimple_9
+    21300020: SpinAttackSHEETsimple_10
+    21300022: SpinAttackSHEETsimple_11
+    21300024: SpinAttackSHEETsimple_12
+    21300026: SpinAttackSHEETsimple_13
+    21300028: SpinAttackSHEETsimple_14
+    21300030: SpinAttackSHEETsimple_15
+    21300032: SpinAttackSHEETsimple_16
+    21300034: SpinAttackSHEETsimple_17
+    21300036: SpinAttackSHEETsimple_18
+    21300038: SpinAttackSHEETsimple_19
+    21300040: SpinAttackSHEETsimple_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SpinAttackSHEETsimple_0
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2844
+        width: 140
+        height: 411
+      alignment: 9
+      pivot: {x: .697680473, y: .805257738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpinAttackSHEETsimple_1
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 2866
+        width: 176
+        height: 354
+      alignment: 9
+      pivot: {x: .64676249, y: .781443119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpinAttackSHEETsimple_2
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 2892
+        width: 267
+        height: 328
+      alignment: 9
+      pivot: {x: .741856039, y: .674376726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpinAttackSHEETsimple_3
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 2885
+        width: 330
+        height: 315
+      alignment: 9
+      pivot: {x: .578273356, y: .687430263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpinAttackSHEETsimple_4
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 2892
+        width: 320
+        height: 307
+      alignment: 9
+      pivot: {x: .373155594, y: .674284577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpinAttackSHEETsimple_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2409
+        width: 290
+        height: 302
+      alignment: 9
+      pivot: {x: .379119873, y: .530546665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpinAttackSHEETsimple_6
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 2431
+        width: 377
+        height: 259
+      alignment: 9
+      pivot: {x: .265091062, y: .450134993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpinAttackSHEETsimple_7
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 2367
+        width: 381
+        height: 386
+      alignment: 9
+      pivot: {x: .209446698, y: .590817153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpinAttackSHEETsimple_8
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1587
+        width: 803
+        height: 574
+      alignment: 9
+      pivot: {x: .743551075, y: .773216546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpinAttackSHEETsimple_9
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1688
+        width: 492
+        height: 473
+      alignment: 9
+      pivot: {x: .721251726, y: .737940848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpinAttackSHEETsimple_10
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 1644
+        width: 355
+        height: 517
+      alignment: 9
+      pivot: {x: .453224719, y: .814045131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpinAttackSHEETsimple_11
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 1733
+        width: 475
+        height: 467
+      alignment: 9
+      pivot: {x: .216450453, y: .760751605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpinAttackSHEETsimple_12
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 870
+        width: 602
+        height: 492
+      alignment: 9
+      pivot: {x: .153676793, y: .796252489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpinAttackSHEETsimple_13
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 920
+        width: 320
+        height: 392
+      alignment: 9
+      pivot: {x: .407749563, y: .725920379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpinAttackSHEETsimple_14
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 932
+        width: 309
+        height: 380
+      alignment: 9
+      pivot: {x: .661215007, y: .728199542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpinAttackSHEETsimple_15
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 994
+        width: 530
+        height: 368
+      alignment: 9
+      pivot: {x: .869002879, y: .720599651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpinAttackSHEETsimple_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 428
+        width: 406
+        height: 246
+      alignment: 9
+      pivot: {x: .795384169, y: .567500889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpinAttackSHEETsimple_17
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 454
+        width: 499
+        height: 195
+      alignment: 9
+      pivot: {x: .747727394, y: .500000298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpinAttackSHEETsimple_18
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 452
+        width: 337
+        height: 248
+      alignment: 9
+      pivot: {x: .565698087, y: .596714854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpinAttackSHEETsimple_19
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 454
+        width: 341
+        height: 247
+      alignment: 9
+      pivot: {x: .256523073, y: .492530733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpinAttackSHEETsimple_20
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 452
+        width: 288
+        height: 348
+      alignment: 9
+      pivot: {x: .480781555, y: .399266392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

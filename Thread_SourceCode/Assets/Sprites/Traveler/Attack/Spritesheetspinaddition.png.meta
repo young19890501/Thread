@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: d66c883079675e9489468b4bcbefeb95
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Spritesheetspinaddition_0
+    21300002: Spritesheetspinaddition_1
+    21300004: Spritesheetspinaddition_2
+    21300006: Spritesheetspinaddition_3
+    21300008: Spritesheetspinaddition_4
+    21300010: Spritesheetspinaddition_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Spritesheetspinaddition_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1391
+        width: 705
+        height: 595
+      alignment: 9
+      pivot: {x: .730301678, y: .724723458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Spritesheetspinaddition_1
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1437
+        width: 562
+        height: 611
+      alignment: 9
+      pivot: {x: .912109792, y: .733167291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Spritesheetspinaddition_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 733
+        width: 654
+        height: 526
+      alignment: 9
+      pivot: {x: .207928225, y: .799595594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Spritesheetspinaddition_3
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 734
+        width: 601
+        height: 509
+      alignment: 9
+      pivot: {x: .0749044567, y: .793965459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Spritesheetspinaddition_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 98
+        width: 657
+        height: 513
+      alignment: 9
+      pivot: {x: .796795189, y: .807187676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Spritesheetspinaddition_5
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 110
+        width: 588
+        height: 478
+      alignment: 9
+      pivot: {x: .891179919, y: .821355283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

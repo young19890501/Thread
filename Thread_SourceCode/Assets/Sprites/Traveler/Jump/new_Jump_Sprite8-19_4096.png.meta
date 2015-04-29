@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: d4ca6bf03af7a914890aa24d68f86356
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: new_Jump_Sprite8-19_4096_0
+    21300002: new_Jump_Sprite8-19_4096_2
+    21300004: new_Jump_Sprite8-19_4096_3
+    21300006: new_Jump_Sprite8-19_4096_5
+    21300008: new_Jump_Sprite8-19_4096_6
+    21300010: new_Jump_Sprite8-19_4096_8
+    21300012: new_Jump_Sprite8-19_4096_9
+    21300014: new_Jump_Sprite8-19_4096_10
+    21300016: new_Jump_Sprite8-19_4096_12
+    21300018: new_Jump_Sprite8-19_4096_13
+    21300020: new_Jump_Sprite8-19_4096_15
+    21300022: new_Jump_Sprite8-19_4096_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: new_Jump_Sprite8-19_4096_0
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 0
+        width: 212
+        height: 258
+      alignment: 9
+      pivot: {x: .692896307, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new_Jump_Sprite8-19_4096_2
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 212
+        height: 258
+      alignment: 9
+      pivot: {x: .740243852, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new_Jump_Sprite8-19_4096_3
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 0
+        width: 212
+        height: 273
+      alignment: 9
+      pivot: {x: .737778008, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new_Jump_Sprite8-19_4096_5
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 0
+        width: 212
+        height: 273
+      alignment: 9
+      pivot: {x: .654346943, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new_Jump_Sprite8-19_4096_6
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0
+        width: 212
+        height: 273
+      alignment: 9
+      pivot: {x: .666861475, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new_Jump_Sprite8-19_4096_8
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 0
+        width: 212
+        height: 273
+      alignment: 9
+      pivot: {x: .656432509, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new_Jump_Sprite8-19_4096_9
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 0
+        width: 212
+        height: 273
+      alignment: 9
+      pivot: {x: .600117207, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new_Jump_Sprite8-19_4096_10
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 0
+        width: 212
+        height: 273
+      alignment: 9
+      pivot: {x: .660604239, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new_Jump_Sprite8-19_4096_12
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 0
+        width: 212
+        height: 273
+      alignment: 9
+      pivot: {x: .650175273, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new_Jump_Sprite8-19_4096_13
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 0
+        width: 212
+        height: 273
+      alignment: 9
+      pivot: {x: .610546172, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new_Jump_Sprite8-19_4096_15
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 0
+        width: 212
+        height: 273
+      alignment: 9
+      pivot: {x: .602202773, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new_Jump_Sprite8-19_4096_16
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 0
+        width: 212
+        height: 273
+      alignment: 9
+      pivot: {x: .602202773, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 8d0470376d43e1b42a1e646664f5475f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: new_Jump_Sprite1-7_2048_0
+    21300002: new_Jump_Sprite1-7_2048_2
+    21300004: new_Jump_Sprite1-7_2048_4
+    21300006: new_Jump_Sprite1-7_2048_5
+    21300008: new_Jump_Sprite1-7_2048_6
+    21300010: new_Jump_Sprite1-7_2048_8
+    21300012: new_Jump_Sprite1-7_2048_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: new_Jump_Sprite1-7_2048_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 179
+        height: 259
+      alignment: 9
+      pivot: {x: .685071409, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new_Jump_Sprite1-7_2048_2
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 0
+        width: 179
+        height: 259
+      alignment: 9
+      pivot: {x: .653791726, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new_Jump_Sprite1-7_2048_4
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 0
+        width: 179
+        height: 259
+      alignment: 9
+      pivot: {x: .708530903, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new_Jump_Sprite1-7_2048_5
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 0
+        width: 179
+        height: 259
+      alignment: 9
+      pivot: {x: .698104441, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new_Jump_Sprite1-7_2048_6
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 0
+        width: 179
+        height: 259
+      alignment: 9
+      pivot: {x: .6668244, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new_Jump_Sprite1-7_2048_8
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 0
+        width: 179
+        height: 259
+      alignment: 9
+      pivot: {x: .703318, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new_Jump_Sprite1-7_2048_9
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 0
+        width: 179
+        height: 259
+      alignment: 9
+      pivot: {x: .677251577, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

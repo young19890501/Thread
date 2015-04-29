@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: ccb0d222cade24f48af8d3f84d8f4fa1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jumpattackspritesheet_0
+    21300002: jumpattackspritesheet_1
+    21300004: jumpattackspritesheet_2
+    21300006: jumpattackspritesheet_3
+    21300008: jumpattackspritesheet_4
+    21300010: jumpattackspritesheet_5
+    21300012: jumpattackspritesheet_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: jumpattackspritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 962
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumpattackspritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 594
+        width: 242
+        height: 335
+      alignment: 9
+      pivot: {x: .837478518, y: .535388887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumpattackspritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 594
+        width: 481
+        height: 343
+      alignment: 9
+      pivot: {x: .908047795, y: .503840387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumpattackspritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 595
+        width: 451
+        height: 323
+      alignment: 9
+      pivot: {x: .879696608, y: .50815624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumpattackspritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 58
+        width: 800
+        height: 356
+      alignment: 9
+      pivot: {x: .350162208, y: .481499106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumpattackspritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 59
+        width: 657
+        height: 374
+      alignment: 9
+      pivot: {x: .197251692, y: .454212993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumpattackspritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 58
+        width: 670
+        height: 260
+      alignment: 9
+      pivot: {x: .224752575, y: .646924555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

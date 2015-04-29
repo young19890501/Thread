@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: e8b0ca760c77eeb4e9f38c68ab8d7910
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: firebreath1_0
+    21300002: firebreath1_1
+    21300004: firebreath1_2
+    21300006: firebreath1_3
+    21300008: firebreath1_4
+    21300010: firebreath1_5
+    21300012: firebreath1_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: firebreath1_0
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 3725
+        width: 529
+        height: 209
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: firebreath1_1
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 3099
+        width: 911
+        height: 428
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: firebreath1_2
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 2630
+        width: 1064
+        height: 463
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: firebreath1_3
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 2042
+        width: 1118
+        height: 481
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: firebreath1_4
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 1440
+        width: 1468
+        height: 537
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: firebreath1_5
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 530
+        width: 2116
+        height: 750
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: firebreath1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2714
+        width: 2864
+        height: 1161
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c2d351c927296304e9b4e4c3d0880e63
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - playerAnimInWeapon: {fileID: 9500000, guid: 798bbac5105ca4720aae61275b29492c,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

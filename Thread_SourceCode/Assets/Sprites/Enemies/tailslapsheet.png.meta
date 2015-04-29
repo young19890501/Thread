@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 53cad96de60f2eb4b894e63e3c433dd3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tailslapsheet
+    21300002: tailslapsheet_0
+    21300004: tailslapsheet_1
+    21300006: tailslapsheet_2
+    21300008: tailslapsheet_3
+    21300010: tailslapsheet_4
+    21300012: tailslapsheet_5
+    21300014: tailslapsheet_6
+    21300016: tailslapsheet_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tailslapsheet_0
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2956
+        width: 1157
+        height: 1002
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tailslapsheet_1
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 3048
+        width: 1041
+        height: 908
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tailslapsheet_2
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 2956
+        width: 838
+        height: 973
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tailslapsheet_3
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1540
+        width: 904
+        height: 1149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tailslapsheet_4
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1617
+        width: 730
+        height: 851
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tailslapsheet_5
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 1656
+        width: 591
+        height: 771
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tailslapsheet_6
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 245
+        width: 883
+        height: 788
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tailslapsheet_7
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 191
+        width: 1135
+        height: 741
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

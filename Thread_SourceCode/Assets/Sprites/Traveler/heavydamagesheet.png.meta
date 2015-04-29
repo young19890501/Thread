@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 92efb60d7d60dd04882dc812fdaeae37
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: heavydamagesheet_0
+    21300002: heavydamagesheet_1
+    21300004: heavydamagesheet_2
+    21300006: heavydamagesheet_3
+    21300008: heavydamagesheet_4
+    21300010: heavydamagesheet_5
+    21300012: heavydamagesheet_6
+    21300014: heavydamagesheet_7
+    21300016: heavydamagesheet_8
+    21300018: heavydamagesheet_9
+    21300020: heavydamagesheet_10
+    21300022: heavydamagesheet_11
+    21300024: heavydamagesheet_12
+    21300026: heavydamagesheet_13
+    21300028: heavydamagesheet_14
+    21300030: heavydamagesheet_15
+    21300032: heavydamagesheet_16
+    21300034: heavydamagesheet_17
+    21300036: heavydamagesheet_18
+    21300038: heavydamagesheet_19
+    21300040: heavydamagesheet_20
+    21300042: heavydamagesheet_21
+    21300044: heavydamagesheet_22
+    21300046: heavydamagesheet_23
+    21300048: heavydamagesheet_24
+    21300050: heavydamagesheet_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: heavydamagesheet_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 3775
+        width: 168
+        height: 228
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heavydamagesheet_1
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 3775
+        width: 182
+        height: 228
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heavydamagesheet_2
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 3775
+        width: 206
+        height: 228
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heavydamagesheet_3
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 3792
+        width: 278
+        height: 228
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heavydamagesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 3808
+        width: 200
+        height: 228
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heavydamagesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 3811
+        width: 252
+        height: 228
+      alignment: 9
+      pivot: {x: .506939113, y: .668729007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heavydamagesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 3808
+        width: 207
+        height: 228
+      alignment: 9
+      pivot: {x: .5, y: .622712791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heavydamagesheet_7
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 3808
+        width: 184
+        height: 228
+      alignment: 9
+      pivot: {x: .490497082, y: .600000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heavydamagesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 3810
+        width: 184
+        height: 228
+      alignment: 9
+      pivot: {x: .461987048, y: .600000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heavydamagesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 3808
+        width: 195
+        height: 228
+      alignment: 9
+      pivot: {x: .482065052, y: .600000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heavydamagesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3179
+        y: 3803
+        width: 212
+        height: 228
+      alignment: 9
+      pivot: {x: .5, y: .622711718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heavydamagesheet_11
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 3809
+        width: 220
+        height: 228
+      alignment: 9
+      pivot: {x: .5, y: .600000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heavydamagesheet_12
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 3804
+        width: 299
+        height: 228
+      alignment: 9
+      pivot: {x: .5, y: .600000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heavydamagesheet_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 3458
+        width: 302
+        height: 228
+      alignment: 9
+      pivot: {x: .5, y: .600000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heavydamagesheet_14
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 3456
+        width: 251
+        height: 228
+      alignment: 9
+      pivot: {x: .5, y: .600000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heavydamagesheet_15
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 3452
+        width: 214
+        height: 228
+      alignment: 9
+      pivot: {x: .5, y: .600000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heavydamagesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 3408
+        width: 182
+        height: 289
+      alignment: 9
+      pivot: {x: .5, y: .611875534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heavydamagesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 3420
+        width: 136
+        height: 264
+      alignment: 9
+      pivot: {x: .5, y: .524493575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heavydamagesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 3412
+        width: 170
+        height: 272
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heavydamagesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 3408
+        width: 138
+        height: 272
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heavydamagesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 3433
+        width: 150
+        height: 235
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heavydamagesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 3439
+        width: 229
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heavydamagesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 3439
+        width: 196
+        height: 193
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heavydamagesheet_23
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 3408
+        width: 173
+        height: 268
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heavydamagesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 3420
+        width: 210
+        height: 268
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heavydamagesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3688
+        y: 3419
+        width: 260
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
