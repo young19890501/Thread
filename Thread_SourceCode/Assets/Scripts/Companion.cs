@@ -6,6 +6,7 @@ public class Companion : MonoBehaviour {
 	private GameObject player;
 	public bool enableWallJump = false;
 	public bool bTesting = true;
+	//helllllllooooooooo
 	// Use this for initialization
 	void Start () 
 	{
