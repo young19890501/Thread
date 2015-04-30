@@ -5,7 +5,6 @@ public class Companion : MonoBehaviour {
 	public float flySpeed = 10f;
 	private GameObject player;
 	public bool enableWallJump = false;
-	public bool bTesting = true;
 	//helllllllooooooooo
 	// Use this for initialization
 	void Start () 
@@ -18,7 +17,6 @@ public class Companion : MonoBehaviour {
 	void LateUpdate () 
 	{
 		Vector3 from= transform.position;
-		bTesting = fales;
 		if(player != null)
 		{
 			Vector3 to;
